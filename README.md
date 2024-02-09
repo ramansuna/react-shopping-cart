@@ -1,4 +1,7 @@
-# Getting Started with Create React App
+
+
+# Getting Started with Create React App![ShoppingList](https://github.com/ramansuna/react-shopping-cart/assets/120169573/58469b78-7310-496a-9ccd-c92e2188fbec)
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
